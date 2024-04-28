@@ -2,7 +2,7 @@
 
 - 👨🏾‍💻  I'm a Senior Software Engineer with a curious nature and an unwavering love for technology. 
 
-- 🎨  My passion lies in crafting stunning front-end applications using technologies like React, Next.js, TypeScript, Tailwind CSS, and Material UI. 
+- 🎨  My passion lies in crafting stunning full-stack applications using technologies like React, Next.js, Node.JS TypeScript, Tailwind CSS, and MongoDB.
 
 - 📱  I also have a keen interest in mobile development and have already developed over 20+ basic apps using Swift and React Native. 
 
