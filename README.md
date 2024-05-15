@@ -1,18 +1,19 @@
-## Hey there! 👋🏾 
+## Hey there! 👋🏾
 
-- 👨🏾‍💻  I'm a Senior Software Engineer with a curious nature and an unwavering love for technology. 
+👨🏾‍💻 I'm a Senior MERN Full-Stack Developer with three years of experience, a curious nature, and an unwavering love for technology.
 
-- 🎨  My passion lies in crafting stunning full-stack applications using technologies like React, Next.js, Node.js TypeScript, Tailwind CSS, and MongoDB.
+- 🎨  My passion lies in crafting stunning full-stack applications using technologies like React, Next.js, Node.js, TypeScript, Tailwind CSS, MongoDB, and NestJS.
 
-- 📱  I also have a keen interest in mobile development and have already developed over 20+ basic apps using Swift and React Native. 
+- 🏗️  I'm dedicated to mastering my skills and delving deeper into design architecture to create scalable and efficient applications.
 
-- 🤖  Currently, I'm diving into the exciting world of AI to expand my knowledge and explore new possibilities. 
+- 📚  Always eager to learn and improve, I continuously seek new challenges and growth opportunities.
 
-- 👀  You can explore my GitHub repositories for some of my latest projects and contributions. 
+- 👀  You can explore my GitHub repositories for some of my latest projects and contributions.
 
-### Let's connect and collaborate! 🤝🏾 
+### Let's connect and collaborate! 🤝🏾
 
- - 📫 How to reach me: aaronoseiowusu@outlook.com
+- 📫 **Email:** [aaronoseiowusu@outlook.com](mailto:aaronoseiowusu@outlook.com)
+- 💼 **LinkedIn:** [linkedin.com/in/aaronowusu](https://www.linkedin.com/in/aaronowusu)
 
 
 
